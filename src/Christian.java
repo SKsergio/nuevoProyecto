@@ -1,3 +1,10 @@
 public class Christian {
-    System.out.println("Soy Christian");
-}
+
+        // Atributos privados
+        private String titulo;
+        private String autor;
+        private String ISBN;
+        private int numPaginas;
+
+
+    }
